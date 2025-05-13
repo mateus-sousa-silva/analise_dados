@@ -1,0 +1,37 @@
+id_despesa,produto/serviço,valor R$,categoria,data
+1,Fio 5mm,250.00,ELT,2023-01-05
+2,Torneira para pia,180.00,HDR,2023-01-07
+3,Porta de madeira maciça,1200.00,MCN,2023-01-10
+4,Tijolos,800.00,PDR,2023-01-12
+5,Saco de cimento,45.00,CRT,2023-01-15
+6,Diária pedreiro,150.00,MAO,2023-01-18
+7,Disjuntor 30A,90.00,ELT,2023-01-20
+8,Cano PVC 100mm,35.00,HDR,2023-01-22
+9,Guarnição para porta,280.00,MCN,2023-01-25
+10,Argamassa,22.00,PDR,2023-01-28
+11,Areia m³,120.00,CRT,2023-02-02
+12,Diária eletricista,180.00,MAO,2023-02-05
+13,Luminária LED,75.00,ELT,2023-02-08
+14,Registro de gaveta,28.00,HDR,2023-02-10
+15,Janela de madeira,950.00,MCN,2023-02-12
+16,Chapisco,18.00,PDR,2023-02-15
+17,Bloco de concreto,3.50,CRT,2023-02-18
+18,Diária marceneiro,200.00,MAO,2023-02-20
+19,Quadro de distribuição,320.00,ELT,2023-02-22
+20,Bomba d'água,650.00,HDR,2023-02-25
+21,Madeira para escada,1800.00,MCN,2023-02-28
+22,Rejunte,12.00,PDR,2023-03-03
+23,Brita m³,110.00,CRT,2023-03-05
+24,Diária servente,120.00,MAO,2023-03-08
+25,Cabo flexível 10mm,42.00,ELT,2023-03-10
+26,Conexão para esgoto,15.00,HDR,2023-03-12
+27,Porta de correr,1350.00,MCN,2023-03-15
+28,Azulejo,45.00,PDR,2023-03-18
+29,Aditivo para concreto,28.00,CRT,2023-03-20
+30,Diária encanador,160.00,MAO,2023-03-22
+31,Interruptor simples,18.00,ELT,2023-05-20
+32,Válvula de descarga,75.00,HDR,2023-05-22
+33,Prateleira de madeira,320.00,MCN,2023-05-25
+34,Piso cerâmico,38.00,PDR,2023-05-28
+35,Forma para pilar,15.00,CRT,2023-05-30
+36,Diária ajudante,100.00,MAO,2023-05-31
